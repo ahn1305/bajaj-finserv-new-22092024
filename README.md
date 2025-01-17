@@ -1,0 +1,1 @@
+This repository was created as part of a task assigned during a placement process by Bajaj Finserv. It is an unofficial project and is not associated with, endorsed by, or affiliated with Bajaj Finserv Limited or its services, including banking or financial services. All trademarks and names used in this repository belong to their respective owners.
